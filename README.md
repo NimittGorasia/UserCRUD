@@ -9,7 +9,7 @@ In this project, I have used Java version 1.8.
 
 I have used the following dependencies:-
 
-spring-boot-starter-web - To create a web application
-jackson-databind - To bind incoming Json to Pojo.
-springfox-swagger2 - To have Swagger.
-springfox-swagger-ui - To have Swagger UI.
+1. spring-boot-starter-web - To create a web application
+2. jackson-databind - To bind incoming Json to Pojo.
+3. springfox-swagger2 - To have Swagger.
+4. springfox-swagger-ui - To have Swagger UI.
